@@ -5,7 +5,6 @@ cd /D %~dp0
 for /f "delims=" %%a in ('powershell -Command "(Get-Date).ToUniversalTime().ToString('yyyy-MM-dd HH:mm:ss')"') do set datetime=%%a
 
 echo %datetime%
-echo %datetime% >vers.info
 git add .
 git commit -m "%datetime%"
 git push origin main
