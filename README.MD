@@ -1,1 +1,1 @@
-# [START](resources/ae2/ae2guide/index.md)
+# [START](ae2/ae2guide/index.md)
