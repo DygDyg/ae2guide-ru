@@ -1,10 +1,11 @@
 
 # Русификатор гайда для Applied Energistics 2 (1.20+)
-## Нажми [START](ae2/ae2guide/index.md) чтобы посмотреть гайд онлайн.
+## Нажми [START AE2](ae2/ae2guide/index.md) или [START  Extended AE](extendedae/ae2guide/index.md)чтобы посмотреть гайд онлайн.
+## 
 
 Перевод сделан при помощи AI Grok.
 В переводе могут встречаться ошибки и неточности.
-На данный момент переведено всё, кроме Extended AE Introduction
+На данный момент переведено всё, в том числе и Extended AE Introduction
 
 ## Установка в игру
 * [Скачать](https://codeload.github.com/DygDyg/ae2guide-ru/zip/refs/heads/main)
