@@ -3,6 +3,8 @@ navigation:
   title: Содержание
   position: 0
 ---
+# Перевод на русский ДугДуг
+* Оставить свои отзывы или сообщить об [ошибках](https://github.com/DygDyg/ae2guide-ru/issues), а так же скачать последнюю версию можно на моём [GitHub](https://github.com/DygDyg/ae2guide-ru)
 # Что такое Applied Energistics 2?
 
 # Как использовать это руководство
