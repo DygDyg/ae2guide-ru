@@ -152,7 +152,7 @@ item_ids:
 ## МЭ плотный кабеля
 
 <GameScene zoom="6" >
-  <ImportStructure src="../assets/assemblies/fluix/covered_dense_cable.snbt" />
+  <ImportStructure src="../assets/assemblies/fluix_covered_cable.snbt" />
   <IsometricCamera yaw="195" pitch="30" />
 </GameScene>
 
