@@ -10,4 +10,4 @@
 ## Установка в игру
 * [Скачать](https://codeload.github.com/DygDyg/ae2guide-ru/zip/refs/heads/main)
 * Расспаковать архив
-* Папку ae2 и extendedae переместить в папку resources в папке minecraft
+* Содержимое папки assets переместить в папку resources в папке minecraft или AE2 Guide - RUS Local.zip в папку resourcepacks и включить в игре
