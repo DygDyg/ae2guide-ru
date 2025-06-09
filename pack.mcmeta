@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "Русский перевод для Applied Energistics 2 и ExtendedAE"
+    },
+    "language": {
+        "ru_ru": {
+            "name": "Русский",
+            "region": "Россия",
+            "bidirectional": false
+        }
+    }
+}

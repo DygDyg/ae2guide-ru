@@ -1,6 +1,6 @@
 
 # Русификатор гайда для Applied Energistics 2 (1.20+)
-## Нажми [START AE2](ae2/ae2guide/index.md) чтобы посмотреть гайд онлайн.
+## Нажми [START AE2](assets/ae2/ae2guide/index.md) чтобы посмотреть гайд онлайн.
 ## 
 
 Перевод сделан при помощи AI Grok.
