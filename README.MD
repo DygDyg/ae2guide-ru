@@ -11,3 +11,6 @@
 * [Скачать](https://codeload.github.com/DygDyg/ae2guide-ru/zip/refs/heads/main)
 * Расспаковать архив
 * Содержимое папки assets переместить в папку resources в папке minecraft или AE2 Guide - RUS Local.zip в папку resourcepacks и включить в игре
+
+
+[Со мной можно так же связаться тут](https://dygdyg.github.io/DygDygWEB/contact.htm)
